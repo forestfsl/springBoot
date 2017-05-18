@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fileUpload/fileUpload.iml" filepath="$PROJECT_DIR$/fileUpload/fileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/importXml/importXml.iml" filepath="$PROJECT_DIR$/importXml/importXml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-ehcache/spring-boot-ehcache.iml" filepath="$PROJECT_DIR$/spring-boot-ehcache/spring-boot-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello2/spring-boot-hello2.iml" filepath="$PROJECT_DIR$/spring-boot-hello2/spring-boot-hello2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jsp/spring-boot-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-jsp/spring-boot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" filepath="$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot.iml" filepath="$PROJECT_DIR$/springBoot.iml" />
+    </modules>
+  </component>
+</project>

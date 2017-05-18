@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "forest",
+      "type": "com.forest.config.ForestSetting",
+      "sourceType": "com.forest.config.ForestSetting"
+    },
+    {
+      "name": "forest2",
+      "type": "com.forest.config.ForestSetting2",
+      "sourceType": "com.forest.config.ForestSetting2"
+    }
+  ],
+  "properties": [
+    {
+      "name": "forest.gender",
+      "type": "java.lang.String",
+      "sourceType": "com.forest.config.ForestSetting"
+    },
+    {
+      "name": "forest.name",
+      "type": "java.lang.String",
+      "sourceType": "com.forest.config.ForestSetting"
+    },
+    {
+      "name": "forest2.gender",
+      "type": "java.lang.String",
+      "sourceType": "com.forest.config.ForestSetting2"
+    },
+    {
+      "name": "forest2.name",
+      "type": "java.lang.String",
+      "sourceType": "com.forest.config.ForestSetting2"
+    }
+  ],
+  "hints": []
+}
