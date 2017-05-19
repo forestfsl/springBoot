@@ -46,7 +46,7 @@
       <module name="spring-boot-hello2" target="1.6" />
       <module name="spring-boot-jsp" target="1.8" />
       <module name="spring-boot-redis" target="1.6" />
-      <module name="spring-boot-shiro" target="1.8" />
+      <module name="spring-boot-shiro" target="1.7" />
       <module name="springBoot" target="1.6" />
     </bytecodeTargetLevel>
   </component>
