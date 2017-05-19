@@ -29,4 +29,6 @@ public class UserInfoController {
         return "userInfoAdd";
     }
 
+//    INSERT INTO `SysPermission` VALUES ('2', '1', '用户添加', '1', '0/1', 'userInfo:add', 'button', 'userInfo/userAdd');
+
 }
