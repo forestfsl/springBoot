@@ -17,6 +17,7 @@
         <module>spring-boot-redis</module>
         <module>spring-boot-ehcache</module>
         <module>spring-boot-shiro</module>
+        <module>mybatis</module>
     </modules>
 
     <parent>

@@ -25,6 +25,7 @@
         <module name="fileUpload" />
         <module name="hello-world" />
         <module name="importXml" />
+        <module name="mybatis" />
         <module name="spring-boot-ehcache" />
         <module name="spring-boot-hello2" />
         <module name="spring-boot-redis" />
@@ -42,6 +43,7 @@
       <module name="fileUpload" target="1.6" />
       <module name="hello-world" target="1.6" />
       <module name="importXml" target="1.6" />
+      <module name="mybatis" target="1.6" />
       <module name="spring-boot-ehcache" target="1.6" />
       <module name="spring-boot-hello2" target="1.6" />
       <module name="spring-boot-jsp" target="1.8" />
