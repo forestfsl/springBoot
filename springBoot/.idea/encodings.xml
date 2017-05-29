@@ -6,11 +6,13 @@
     <file url="file://$PROJECT_DIR$/hello-world" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/importXml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisXml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-ehcache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-hello2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-jsp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -26,10 +26,13 @@
         <module name="hello-world" />
         <module name="importXml" />
         <module name="mybatis" />
+        <module name="mybatisAnnotation" />
+        <module name="mybatisXml" />
         <module name="spring-boot-ehcache" />
         <module name="spring-boot-hello2" />
         <module name="spring-boot-redis" />
         <module name="spring-boot-shiro" />
+        <module name="spring-data-jpa" />
       </profile>
       <profile default="false" name="Annotation profile for spring-boot-jsp" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -44,11 +47,14 @@
       <module name="hello-world" target="1.6" />
       <module name="importXml" target="1.6" />
       <module name="mybatis" target="1.6" />
+      <module name="mybatisAnnotation" target="1.6" />
+      <module name="mybatisXml" target="1.6" />
       <module name="spring-boot-ehcache" target="1.6" />
       <module name="spring-boot-hello2" target="1.6" />
       <module name="spring-boot-jsp" target="1.8" />
       <module name="spring-boot-redis" target="1.6" />
       <module name="spring-boot-shiro" target="1.8" />
+      <module name="spring-data-jpa" target="1.8" />
       <module name="springBoot" target="1.6" />
     </bytecodeTargetLevel>
   </component>
