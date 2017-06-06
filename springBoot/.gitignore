@@ -1,0 +1,15 @@
+#忽略eclipse文件
+**/bin
+**/.project
+**/.classpath
+
+#忽略IDEA文件
+**/*.iml
+**/*.idea
+
+#忽略mave编译文件
+**/target
+
+#忽略本地配置文件
+**/application-local*
+mall-app-rest/
