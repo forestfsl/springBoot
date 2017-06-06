@@ -20,6 +20,19 @@
         <module>mybatis</module>
         <module>mybatisXml</module>
         <module>spring-data-jpa</module>
+        <module>spring-boot-devtools</module>
+        <module>spring-boot-multids</module>
+        <module>spring-boot-bean</module>
+        <module>spring-boot-multi-ds</module>
+        <module>spring-boot-AOPWeb</module>
+        <module>spring-boot-mail</module>
+        <module>spring-boot-restful</module>
+        <module>spring-boot-application.properties</module>
+        <module>spring-boot-Async</module>
+        <module>spring-boot-globalExeception</module>
+        <module>spring-boot-international</module>
+        <module>spring-boot-Validator</module>
+        <module>spring-boot-Swagger</module>
     </modules>
 
     <parent>
@@ -76,6 +89,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.14</version>
         </dependency>
 
 

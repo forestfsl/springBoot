@@ -7,10 +7,23 @@
       <module fileurl="file://$PROJECT_DIR$/importXml/importXml.iml" filepath="$PROJECT_DIR$/importXml/importXml.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatisAnnotation.iml" filepath="$PROJECT_DIR$/mybatis/mybatisAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisXml/mybatisXml.iml" filepath="$PROJECT_DIR$/mybatisXml/mybatisXml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-AOPWeb/spring-boot-AOPWeb.iml" filepath="$PROJECT_DIR$/spring-boot-AOPWeb/spring-boot-AOPWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-Async/spring-boot-Async.iml" filepath="$PROJECT_DIR$/spring-boot-Async/spring-boot-Async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-Swagger/spring-boot-Swagger.iml" filepath="$PROJECT_DIR$/spring-boot-Swagger/spring-boot-Swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-Validator/spring-boot-Validator.iml" filepath="$PROJECT_DIR$/spring-boot-Validator/spring-boot-Validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-application.properties/spring-boot-application.properties.iml" filepath="$PROJECT_DIR$/spring-boot-application.properties/spring-boot-application.properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-bean/spring-boot-bean.iml" filepath="$PROJECT_DIR$/spring-boot-bean/spring-boot-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" filepath="$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-ehcache/spring-boot-ehcache.iml" filepath="$PROJECT_DIR$/spring-boot-ehcache/spring-boot-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-globalExeception/spring-boot-globalExeception.iml" filepath="$PROJECT_DIR$/spring-boot-globalExeception/spring-boot-globalExeception.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-hello2/spring-boot-hello2.iml" filepath="$PROJECT_DIR$/spring-boot-hello2/spring-boot-hello2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-international/spring-boot-international.iml" filepath="$PROJECT_DIR$/spring-boot-international/spring-boot-international.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-jsp/spring-boot-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-jsp/spring-boot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mail/spring-boot-mail.iml" filepath="$PROJECT_DIR$/spring-boot-mail/spring-boot-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-multi-ds/spring-boot-multi-ds.iml" filepath="$PROJECT_DIR$/spring-boot-multi-ds/spring-boot-multi-ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-multids/spring-boot-multids.iml" filepath="$PROJECT_DIR$/spring-boot-multids/spring-boot-multids.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-restful/spring-boot-restful.iml" filepath="$PROJECT_DIR$/spring-boot-restful/spring-boot-restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" filepath="$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-data-jpa/spring-data-jpa.iml" filepath="$PROJECT_DIR$/spring-data-jpa/spring-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBoot.iml" filepath="$PROJECT_DIR$/springBoot.iml" />

@@ -28,10 +28,23 @@
         <module name="mybatis" />
         <module name="mybatisAnnotation" />
         <module name="mybatisXml" />
+        <module name="spring-boot-AOPWeb" />
+        <module name="spring-boot-application.properties" />
+        <module name="spring-boot-Async" />
+        <module name="spring-boot-bean" />
+        <module name="spring-boot-devtools" />
         <module name="spring-boot-ehcache" />
+        <module name="spring-boot-globalExeception" />
         <module name="spring-boot-hello2" />
+        <module name="spring-boot-international" />
+        <module name="spring-boot-mail" />
+        <module name="spring-boot-multi-ds" />
+        <module name="spring-boot-multids" />
         <module name="spring-boot-redis" />
+        <module name="spring-boot-restful" />
         <module name="spring-boot-shiro" />
+        <module name="spring-boot-Swagger" />
+        <module name="spring-boot-Validator" />
         <module name="spring-data-jpa" />
       </profile>
       <profile default="false" name="Annotation profile for spring-boot-jsp" enabled="true">
@@ -49,11 +62,24 @@
       <module name="mybatis" target="1.6" />
       <module name="mybatisAnnotation" target="1.6" />
       <module name="mybatisXml" target="1.6" />
+      <module name="spring-boot-AOPWeb" target="1.6" />
+      <module name="spring-boot-application.properties" target="1.6" />
+      <module name="spring-boot-Async" target="1.6" />
+      <module name="spring-boot-bean" target="1.6" />
+      <module name="spring-boot-devtools" target="1.6" />
       <module name="spring-boot-ehcache" target="1.6" />
+      <module name="spring-boot-globalExeception" target="1.6" />
       <module name="spring-boot-hello2" target="1.6" />
+      <module name="spring-boot-international" target="1.6" />
       <module name="spring-boot-jsp" target="1.8" />
+      <module name="spring-boot-mail" target="1.6" />
+      <module name="spring-boot-multi-ds" target="1.8" />
+      <module name="spring-boot-multids" target="1.6" />
       <module name="spring-boot-redis" target="1.6" />
+      <module name="spring-boot-restful" target="1.6" />
       <module name="spring-boot-shiro" target="1.8" />
+      <module name="spring-boot-Swagger" target="1.8" />
+      <module name="spring-boot-Validator" target="1.6" />
       <module name="spring-data-jpa" target="1.8" />
       <module name="springBoot" target="1.6" />
     </bytecodeTargetLevel>

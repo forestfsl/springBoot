@@ -7,10 +7,23 @@
     <file url="file://$PROJECT_DIR$/importXml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatisXml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-AOPWeb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-Async" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-Swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-Validator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-devtools" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-globalExeception" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-hello2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-international" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-multi-ds" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-multids" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-restful" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-shiro" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-data-jpa" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

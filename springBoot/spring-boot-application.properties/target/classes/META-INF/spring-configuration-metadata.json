@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "com.forest.blog",
+    "type": "com.forest.config.BlogProperties",
+    "sourceType": "com.forest.config.BlogProperties"
+  }],
+  "properties": [
+    {
+      "name": "com.forest.blog.name",
+      "type": "java.lang.String",
+      "sourceType": "com.forest.config.BlogProperties"
+    },
+    {
+      "name": "com.forest.blog.title",
+      "type": "java.lang.String",
+      "sourceType": "com.forest.config.BlogProperties"
+    }
+  ],
+  "hints": []
+}
